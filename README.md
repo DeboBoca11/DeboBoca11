@@ -1,5 +1,8 @@
+<h1 align="center">Hi 👋, I'm Debora Zabala</h1>
 <h3 align="center">frontend Developer</h3>
+<h3 align="center">Passionate about technology and web pages</h3>
 
+<p align="left"> <a href="https://twitter.com/debozabala19" target="blank"><img src="https://img.shields.io/twitter/follow/debozabala19?logo=twitter&style=for-the-badge" alt="debozabala19" /></a> </p>
 - 🔭 I’m currently working on **Trabajo de Administradora de Red En 4 colegios**
 
 - 🌱 I’m currently learning **Html, Css, Javascript**
