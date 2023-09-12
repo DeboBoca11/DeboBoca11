@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Html, Css, Javascript**
   
-- 👨‍💻 All of my CV are available at [https://github.com/DeboBoca11/](https://github.com/DeboBoca11/)
+- 👨‍💻 All of my CV are available at [https://github.com/DeboBoca11/DeboBoca11.git/](https://github.com/DeboBoca11/)
 
 - 📫 How to reach me **debozabala11@gmail.com**
 
