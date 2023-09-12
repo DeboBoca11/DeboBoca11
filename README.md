@@ -9,9 +9,10 @@
   
 - 👨‍💻 All of my CV are available at [https://github.com/DeboBoca11/DeboBoca11.git/](https://github.com/DeboBoca11/)
 
+- - 💬 Ask me about **FrontEnd**
+
 - 📫 How to reach me **debozabala11@gmail.com**
 
-- 📄 Know about my experiences <a href="https://www.linkedin.com/in/debora-zabala-b110b723b/" target="_blank"><i class="Linkedin"></i></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
