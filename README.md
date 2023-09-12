@@ -6,6 +6,8 @@
 - 🔭 I’m currently working on **Trabajo de Administradora de Red En 4 colegios**
 
 - 🌱 I’m currently learning **Html, Css, Javascript**
+  
+- 👨‍💻 All of my CV are available at [http://DeboBoca11.github.io/](http://DeboBoca11.github.io/)
 
 - 📫 How to reach me **debozabala11@gmail.com**
 
