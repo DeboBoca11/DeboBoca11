@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Html, Css, Javascript**
 - My complete profile [https://github.com/DeboBoca11/DeboBoca11.git/](https://github.com/DeboBoca11/)
-
+- 💬 My project ([cvwebdebozabala.netlify.app](https://app.netlify.com/sites/cvwebde0b0ozabala/configuration/general))
 - 💬 Ask me about **FrontEnd**
 
 - 📫 How to reach me **debozabala11@gmail.com**
