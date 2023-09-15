@@ -7,6 +7,9 @@
 
 - 🌱 I’m currently learning **Html, Css, Javascript**
 - My complete profile [https://github.com/DeboBoca11/DeboBoca11.git/](https://github.com/DeboBoca11/)
+
+- 💬 My resume can be found at [https://drive.google.com/file/d/122eIqJdd5LksrrngBX8qGUZI5qh7dLZJ/view?usp=drive_link/]
+    
 - 💬 Ask me about **FrontEnd**
 
 - 📫 How to reach me **debozabala11@gmail.com**
